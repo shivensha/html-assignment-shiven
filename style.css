@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background-color: rgb(22, 21, 21);
+}
+body{
+    width: 100%;
+
+}
+img{
+    height: 90vh;
+    width: 50vw;
+    display: flex;
+    margin: auto;
+    }
+section{
+    background-color: brown;
+}
+.A1{
+  width: 180vh;
+  height: 110vh;
+  text-align: center;
+  font-family: 'Advent Pro', sans-serif;
+  color: aliceblue;
+
+}
+.A2{
+    width: 180vh;
+    height: 110vh;
+    text-align: center;
+    font-family: 'Advent Pro', sans-serif; 
+    top: 93%;
+    position: absolute;
+    color: aliceblue;
+
+}
+.A3{
+    width: 180vh;
+    height: 110vh;
+    text-align: center;
+    font-family: 'Advent Pro', sans-serif; 
+    top: 96%;
+    position: absolute; 
+    color: aliceblue;
+      
+}
+.P1{
+    width: 180vh;
+    height: 110vh;
+    text-align: center;
+    font-family: 'Advent Pro', sans-serif; 
+    top: 100%;
+    position: absolute; 
+    font-size: x-small;
+    color : #2c282d; 
+}
+.P2{
+    width: 180vh;
+    height: 108vh;
+    text-align: center;
+    font-family: 'Advent Pro', sans-serif; 
+    top: 103%;
+    position: absolute; 
+    font-size: x-small;
+    color : #2c282d;   
+}
+.P3{
+    width: 180vh;
+    height: 108vh;
+    text-align: center;
+    font-family: 'Advent Pro', sans-serif; 
+    top: 106%;
+    position: absolute; 
+    font-size: x-small;
+    color : #2c282d;   
+}
+
+
